@@ -1,0 +1,27 @@
+[
+  {
+    "id": "c4ef4a8d-2b8e-4162-a522-1d9f64ec73ba",
+    "email": "joao@hotmail.com",
+    "password": "$2b$10$FgoxQjRG82ikWiR0e452P.cvJed1RyF3fEBI0q62PVj7uqvu03wMa"
+  },
+  {
+    "id": "ca3772c0-d848-451f-9f32-afb4b48bea6d",
+    "email": "juca@hotmail.com",
+    "password": "$2b$10$q14QXU6hxR6KqU8SB7UiEuMNXL5dm7AxZz/Sty6uwAvGYRABOujsi"
+  },
+  {
+    "id": "f673e5c1-be9a-428d-b820-091776ea5d7d",
+    "email": "teste@teste.com",
+    "password": "$2b$10$ReiohNGiWxiWvHPqMUCcmOvp0/dqmRVbb4wKCcfJIAXtb.kgLIKsy"
+  },
+  {
+    "id": "ac2a823a-2386-47a4-b1b4-90f85f31c09a",
+    "email": "d2023005979@unifei.edu.br",
+    "password": "$2b$10$g8Ud5G.UlZww3b6TVix8kOSOKbc6L.xkvGDFxlqr5Z33S6w/HMmku"
+  },
+  {
+    "id": "1e899ced-3111-4529-8a4d-33cb9783c3d0",
+    "email": "murilorfm@gmail.com",
+    "password": "$2b$10$cfSO9DKQDc4HUVIajFq3vOmUeZn2Qzg/Tly7qriasl947JkrGBlVW"
+  }
+]
